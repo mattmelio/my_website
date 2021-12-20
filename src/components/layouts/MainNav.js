@@ -16,7 +16,7 @@ function MainNav() {
               <a href="/music">Music</a>
             </li>
             <li>
-              <a href="/contact-me">Contact</a>
+              <a href="/contact">Contact</a>
             </li>
           </ul>
         </nav>

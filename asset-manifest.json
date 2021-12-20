@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https.//mattmelio.github.io/my_website/static/css/main.8c6e27ae.css",
+    "main.js": "/https.//mattmelio.github.io/my_website/static/js/main.345223cc.js",
+    "index.html": "/https.//mattmelio.github.io/my_website/index.html",
+    "main.8c6e27ae.css.map": "/https.//mattmelio.github.io/my_website/static/css/main.8c6e27ae.css.map",
+    "main.345223cc.js.map": "/https.//mattmelio.github.io/my_website/static/js/main.345223cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c6e27ae.css",
+    "static/js/main.345223cc.js"
+  ]
+}

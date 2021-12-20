@@ -1,6 +1,6 @@
 function Home() {
     return(
-        <div>Home</div>
+        <div>Home. will add threejs tomorrow</div>
     );
 }
 

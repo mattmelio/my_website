@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <div>My name is matt</div>
+    <div>Hello World!</div>
   );
 }
 

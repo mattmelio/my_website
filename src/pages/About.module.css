@@ -1,0 +1,22 @@
+.container{
+    margin: auto;
+}
+
+.pro {
+  display: block;
+  margin: 0 auto;
+}
+
+.pro:hover {
+    opacity: .75;
+}
+
+.about h2{
+   text-align: center;
+   font-size: 50px;
+}
+
+.about p{
+    text-align: center;
+    font-size: 30px;
+}
